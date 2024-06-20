@@ -6,6 +6,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomelgaco&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-**Texto**
-*Texto*
-Texto
+**Lista**
+* Uva
+* Maçã
+* PEra
+
+**Lista2**
+1. Leo
+2. Ana
+3. João
+4. Yasmim
