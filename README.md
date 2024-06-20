@@ -8,5 +8,5 @@
     
 ## Tarefas
 
-- [ x ] Aréa
+- [x] Aréa
 - [ ] Pagamentos
