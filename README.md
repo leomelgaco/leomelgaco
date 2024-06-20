@@ -6,5 +6,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomelgaco&layout=compact&langs_count=16&theme=dark"/>
 </div>
     
-### Link
-[Steam](https://steamcommunity.com/id/LeonardoGuerra)
+### Código
+
+```javascript
+function soma(a,b) {
+ return  a + b;
+}
+
+```
