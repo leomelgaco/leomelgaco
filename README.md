@@ -15,6 +15,8 @@
 
 **Lista2**
 1. Leo
-2. Ana
-3. João
-4. Yasmim
+   1. Sim
+   2. Não
+3. Ana
+4. João
+5. Yasmim
