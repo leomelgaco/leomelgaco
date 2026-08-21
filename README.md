@@ -82,7 +82,7 @@ Sou apaixonado por tecnologia e games, curioso por natureza e autodidata. Gosto 
 
 <h3 align="left">GitHub Stats</h3>
 
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -97,10 +97,9 @@ Sou apaixonado por tecnologia e games, curioso por natureza e autodidata. Gosto 
     height="200" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=leomelgaco&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
-</p>
+</div>
 
-<br/>
-<br/>
+<br clear="both">
 
 <!-- Pac Man -->
 
@@ -108,4 +107,4 @@ Sou apaixonado por tecnologia e games, curioso por natureza e autodidata. Gosto 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leomelgaco/leomelgaco/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leomelgaco/leomelgaco/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leomelgaco/leomelgaco/output/pacman-contribution-graph.svg">
-</picture> 
+</picture>
