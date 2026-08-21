@@ -8,7 +8,7 @@
 
 Olá! Eu sou Leonardo Guerra Melgaço 👋
 
-Tenho 28 anos, sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho com metodologias ágeis, com foco em Kanban.
+Tenho 28 anos, sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho com metodologias ágeis.
 
 Sou apaixonado por tecnologia e games, curioso por natureza e autodidata. Gosto de entender como as coisas funcionam e estou sempre buscando aprender e me aprofundar em novas tecnologias.
 
