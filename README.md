@@ -99,8 +99,8 @@ Sou apaixonado por tecnologia e games, curioso por natureza e autodidata. Gosto 
   />
 </p>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <!-- Pac Man -->
 
